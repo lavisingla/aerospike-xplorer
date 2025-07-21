@@ -1,0 +1,137 @@
+version: '3'
+
+services:
+  # Aerospike Cluster Nodes
+  aerospike-1:
+    image: aerospike/aerospike-server:latest
+    container_name: aerospike-1
+    volumes:
+      - ./aerospike/aerospike_node1.conf:/etc/aerospike/aerospike.template.conf:ro
+      - ./volumes/aerospike-data-1:/opt/aerospike/data
+    ports:
+      - "3001:3000"
+      - "3101:3001"
+    networks:
+      - aerospike-network
+    restart: unless-stopped
+    environment:
+      - NAMESPACE=test
+      - MEM_GB=2
+      - STORAGE_GB=3
+
+  aerospike-2:
+    image: aerospike/aerospike-server:latest
+    container_name: aerospike-2
+    volumes:
+      - ./aerospike/aerospike_node2.conf:/etc/aerospike/aerospike.template.conf:ro
+      - ./volumes/aerospike-data-2:/opt/aerospike/data
+    ports:
+      - "3002:3000"
+      - "3102:3001"
+    networks:
+      - aerospike-network
+    restart: unless-stopped
+    depends_on:
+      - aerospike-1
+    environment:
+      - NAMESPACE=test
+      - MEM_GB=2
+      - STORAGE_GB=3
+
+  aerospike-3:
+    image: aerospike/aerospike-server:latest
+    container_name: aerospike-3
+    volumes:
+      - ./aerospike/aerospike_node3.conf:/etc/aerospike/aerospike.template.conf:ro
+      - ./volumes/aerospike-data-3:/opt/aerospike/data
+    ports:
+      - "3003:3000"
+      - "3103:3001"
+    networks:
+      - aerospike-network
+    restart: unless-stopped
+    depends_on:
+      - aerospike-1
+    environment:
+      - NAMESPACE=test
+      - MEM_GB=2
+      - STORAGE_GB=3
+
+  # Aerospike Management Console (AMC)
+  amc:
+    image: aerospike/amc:latest
+    container_name: aerospike-amc
+    ports:
+      - "8081:8081"
+    networks:
+      - aerospike-network
+    restart: unless-stopped
+    depends_on:
+      - aerospike-1
+      - aerospike-2
+      - aerospike-3
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /usr/share/zoneinfo:/usr/share/zoneinfo:ro
+
+  # Aerospike Prometheus Exporter
+  # aerospike-prometheus-exporter:
+  #   image: aerospike/aerospike-prometheus-exporter:latest
+  #   container_name: aerospike-exporter
+  #   command:
+  #     - --aerospike.host=aerospike-1
+  #     - --aerospike.port=3000
+  #     - --aerospike.timeout=5s
+  #   ports:
+  #     - "9145:9145"
+  #   networks:
+  #     - aerospike-network
+  #   restart: unless-stopped
+  #   depends_on:
+  #     - aerospike-1
+  #     - aerospike-2
+  #     - aerospike-3
+
+  # # Prometheus for metrics collection
+  # prometheus:
+  #   image: prom/prometheus:latest
+  #   container_name: prometheus
+  #   volumes:
+  #     - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+  #     - ./volumes/prometheus-data:/prometheus
+  #   command:
+  #     - '--config.file=/etc/prometheus/prometheus.yml'
+  #     - '--storage.tsdb.path=/prometheus'
+  #     - '--web.console.libraries=/usr/share/prometheus/console_libraries'
+  #     - '--web.console.templates=/usr/share/prometheus/consoles'
+  #   ports:
+  #     - "9090:9090"
+  #   networks:
+  #     - aerospike-network
+  #   restart: unless-stopped
+  #   depends_on:
+  #     - aerospike-prometheus-exporter
+
+  # # Grafana for visualization
+  # grafana:
+  #   image: grafana/grafana:latest
+  #   container_name: grafana
+  #   volumes:
+  #     - ./grafana/provisioning:/etc/grafana/provisioning
+  #     - ./grafana/dashboards:/var/lib/grafana/dashboards
+  #     - ./volumes/grafana-data:/var/lib/grafana
+  #   environment:
+  #     - GF_SECURITY_ADMIN_PASSWORD=admin
+  #     - GF_SECURITY_ADMIN_USER=admin
+  #     - GF_USERS_ALLOW_SIGN_UP=false
+  #   ports:
+  #     - "3000:3000"
+  #   networks:
+  #     - aerospike-network
+  #   restart: unless-stopped
+  #   depends_on:
+  #     - prometheus
+
+networks:
+  aerospike-network:
+    driver: bridge

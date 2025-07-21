@@ -1,0 +1,91 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'com.example'
+version = '1.0-SNAPSHOT'
+sourceCompatibility = '11'
+targetCompatibility = '11'
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    aerospikeVersion = '6.1.2'
+    jacksonVersion = '2.13.4'
+    lombokVersion = '1.18.24'
+    junitVersion = '5.9.0'
+    logbackVersion = '1.4.1'
+}
+
+dependencies {
+    // Aerospike Client
+    implementation "com.aerospike:aerospike-client:${aerospikeVersion}"
+    
+    // Jackson for JSON processing
+    implementation "com.fasterxml.jackson.datatype:jackson-datatype-jsr310"
+
+    implementation "com.fasterxml.jackson.core:jackson-databind:${jacksonVersion}"
+    
+    // Lombok to reduce boilerplate
+    compileOnly "org.projectlombok:lombok:${lombokVersion}"
+    annotationProcessor "org.projectlombok:lombok:${lombokVersion}"
+    
+    // Logging
+    implementation "ch.qos.logback:logback-classic:${logbackVersion}"
+    
+    // Testing
+    testImplementation "org.junit.jupiter:junit-jupiter-api:${junitVersion}"
+    testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:${junitVersion}"
+}
+
+application {
+    mainClass = 'com.example.aerospike.cache.AerospikeCacheDemo'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+// Task to run the demo application
+task runDemo(type: JavaExec) {
+    group = 'application'
+    description = 'Runs the Aerospike Cache Demo'
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'com.example.aerospike.cache.AerospikeCacheDemo'
+}
+
+// Task to run the performance tests using the dedicated performance test demo
+task runPerformanceTests(type: JavaExec) {
+    group = 'application'
+    description = 'Runs the Aerospike Performance Tests'
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'com.example.aerospike.cache.perf.PerformanceTestDemo'
+    
+    // Increase memory for performance tests
+    jvmArgs = ['-Xmx2g', '-Xms1g']
+    
+    // Configure logging
+    systemProperty 'logback.configurationFile', 'src/main/resources/logback.xml'
+}
+
+// Task to run the performance tests using the main demo application
+task runPerformanceTestsFromDemo(type: JavaExec) {
+    group = 'application'
+    description = 'Runs the Aerospike Performance Tests from the main demo application'
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'com.example.aerospike.cache.AerospikeCacheDemo'
+    args = ['perf']
+    
+    // Increase memory for performance tests
+    jvmArgs = ['-Xmx2g', '-Xms1g']
+    
+    // Configure logging
+    systemProperty 'logback.configurationFile', 'src/main/resources/logback.xml'
+}

@@ -1,0 +1,7333 @@
+2025-07-08 13:06:10.012
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.012
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.012
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.012
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.011
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.011
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.011
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.011
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.011
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.011
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.011
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.011
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.010
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.010
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.010
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.010
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.010
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 13:06:10.010
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.008
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.007
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.007
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.007
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.007
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.006
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.006
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.006
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.006
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.006
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.006
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.006
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.006
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.005
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.005
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.005
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.005
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 13:04:10.005
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.003
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.003
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.002
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.002
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.002
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.001
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.001
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.001
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.001
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.001
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.001
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.001
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.001
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.000
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.000
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.000
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.000
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 13:03:10.000
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.942
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.942
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.942
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.941
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.941
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.941
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.941
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.940
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.940
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.940
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.940
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.940
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.940
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.940
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.939
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.939
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.939
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:53:09.939
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.937
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.937
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.937
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.936
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.936
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.936
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.936
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.936
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.936
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.935
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.935
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.935
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.935
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.935
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.935
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.935
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.935
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:51:09.934
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.932
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.932
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.932
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.932
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.931
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.931
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.931
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.931
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.931
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.931
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.931
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.930
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.930
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.930
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.930
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.930
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.930
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:50:09.930
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.928
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.927
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.927
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.927
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.926
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.926
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.926
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.926
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.926
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.926
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.926
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.926
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.926
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.925
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.925
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.925
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.925
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:40:09.925
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.923
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.923
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.922
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.922
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.922
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.921
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.921
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.921
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.921
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.921
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.921
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.921
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.921
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.920
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.920
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.920
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.920
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:38:09.920
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.876
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.876
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.876
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.876
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.875
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.875
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.875
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.875
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.875
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.875
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.875
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.875
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.874
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.874
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.874
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.874
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.874
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:37:09.874
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.871
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.871
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.871
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.871
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.870
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.870
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.870
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.869
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.869
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.869
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.869
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.869
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.869
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.868
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.868
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.868
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.868
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:27:09.868
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.865
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.865
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.865
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.865
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.864
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.864
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.864
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.864
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.864
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.863
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.863
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.863
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.863
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.863
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.863
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.863
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.863
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:25:09.862
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.860
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.860
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.860
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.860
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.859
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.859
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.859
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.859
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.859
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.859
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.859
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.858
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.858
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.858
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.858
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.858
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.858
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:24:09.858
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.855
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.855
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.855
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.855
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.854
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.854
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.854
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.854
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.854
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.854
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.854
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.854
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.854
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.853
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.853
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.853
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.853
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:14:09.853
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.851
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.851
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.850
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.850
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.849
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.849
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.849
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.849
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.849
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.849
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.849
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.848
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.848
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.848
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.848
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.848
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.848
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:12:09.847
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.845
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.845
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.845
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.845
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.844
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.844
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.844
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.844
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.844
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.844
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.843
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.843
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.843
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.843
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.843
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.843
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.843
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:11:09.842
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.840
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.840
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.840
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.840
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.839
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.839
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.839
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.839
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.839
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.839
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.839
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.839
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.838
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.838
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.838
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.838
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.838
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 12:01:09.838
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.836
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.835
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.835
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.835
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.835
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.834
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.834
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.834
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.834
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.834
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.834
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.834
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.834
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.833
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.833
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.833
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.833
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:59:09.833
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.831
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.831
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.831
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.830
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.830
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.829
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.829
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.829
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.829
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.829
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.829
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.829
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.829
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.829
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.828
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.828
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.828
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:58:09.828
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.826
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.826
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.826
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.825
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.825
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.825
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.825
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.825
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.825
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.824
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.824
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.824
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.824
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.824
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.823
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.823
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.823
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:48:09.823
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.821
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.821
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.821
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.821
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.820
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.820
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.820
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.820
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.820
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.819
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.819
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.819
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.819
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.819
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.819
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.819
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.819
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:46:09.818
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.816
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.816
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.816
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.815
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.814
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.814
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.814
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.813
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.813
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.813
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.813
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.813
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.812
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.812
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.812
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.811
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.811
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:45:09.811
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.808
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.808
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.808
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.807
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.807
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.807
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.807
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.807
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.806
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.806
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.806
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.806
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.806
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.806
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.806
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.806
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.805
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:35:09.805
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.803
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.803
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.803
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.803
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.802
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.802
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.802
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.802
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.802
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.802
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.802
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.801
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.801
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.801
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.801
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.801
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.801
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:33:09.801
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.798
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.798
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.798
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.798
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.797
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.797
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.797
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.797
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.797
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.797
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.797
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.797
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.796
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.796
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.796
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.796
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.796
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:32:09.796
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.794
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.794
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.793
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.793
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.793
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.792
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.792
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.792
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.792
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.792
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.792
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.792
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.792
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.791
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.791
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.791
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.791
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:22:09.791
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.789
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.789
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.789
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.788
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.788
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.788
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.788
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.788
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.788
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.787
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.787
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.787
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.787
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.787
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.787
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.787
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.786
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:20:09.786
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.784
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.784
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.784
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.784
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.783
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.783
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.783
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.783
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.783
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.782
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.782
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.782
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.782
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.782
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.782
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.782
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.782
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:19:09.781
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.779
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.779
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.779
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.779
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.778
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.778
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.778
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.778
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.778
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.778
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.778
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.778
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.777
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.777
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.777
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.777
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.777
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:09:09.777
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.775
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.774
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.774
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.774
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.773
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.773
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.773
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.773
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.773
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.773
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.773
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.773
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.773
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.772
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.772
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.772
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.772
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:07:09.772
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.770
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.769
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.769
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.769
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.768
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.768
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.768
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.768
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.768
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.767
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.767
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.767
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.767
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.767
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.766
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.766
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.766
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 11:06:09.766
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.763
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.763
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.763
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.763
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.762
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.762
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.762
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.762
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.762
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.762
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.762
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.762
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.762
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.761
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.761
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.761
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.761
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:56:09.761
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.759
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.759
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.758
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.758
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.758
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.757
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.757
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.757
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.757
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.757
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.757
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.757
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.757
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.756
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.756
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.756
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.756
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:54:09.756
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.754
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.753
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.753
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.753
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.752
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.752
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.751
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.751
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.751
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.751
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.751
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.751
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.750
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.750
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.750
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.750
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.749
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:53:09.749
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.746
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.746
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.746
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.746
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.745
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.745
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.745
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.745
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.745
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.745
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.745
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.745
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.744
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.744
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.744
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.744
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.744
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:43:09.744
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.742
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.741
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.741
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.741
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.741
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.740
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.740
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.740
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.740
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.740
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.740
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.740
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.740
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.739
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.739
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.739
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.739
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:41:09.739
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.737
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency668, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.737
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency2000, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.737
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.736
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.736
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.736
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency76, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.736
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.736
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency32, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.735
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency38, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.735
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.735
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency48, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.735
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.735
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency817, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.735
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency187, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.735
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1483, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.735
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency595, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.735
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2814, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:40:09.734
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency299, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.719
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency1999, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.718
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.718
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.718
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency667, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.717
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.717
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.717
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.717
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency75, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.717
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.717
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2813, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.717
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency46, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.717
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.716
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency298, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.716
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency29, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.716
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency815, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.716
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency37, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.716
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency186, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:30:09.716
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.714
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency1999, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.713
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.713
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency667, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.713
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.712
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.712
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.712
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency75, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.712
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2813, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.712
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.712
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.712
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.712
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.712
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency46, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.711
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency815, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.711
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency29, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.711
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency186, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.711
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency37, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:28:09.711
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency298, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.709
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency1999, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.709
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency667, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.708
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.708
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.708
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.707
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.707
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2813, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.707
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.707
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.707
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.707
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.707
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency75, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.707
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency46, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.706
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency298, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.706
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency37, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.706
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency186, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.706
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency29, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:27:09.706
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency815, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.704
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.704
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency667, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.704
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency1999, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.703
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency46, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.703
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency75, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.703
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.703
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.703
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.703
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.702
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency37, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.702
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency815, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.702
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.702
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.702
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2813, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.702
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency29, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.702
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency186, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.702
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:17:09.701
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency298, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.699
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.699
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency1999, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.699
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.699
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency667, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.698
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.698
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.698
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency46, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.698
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency75, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.698
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.698
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.697
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency37, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.697
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.697
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency815, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.697
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency29, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.697
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency186, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.697
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2813, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.697
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency298, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:15:09.697
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.694
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.694
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.694
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency667, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.694
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency1999, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.693
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.693
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency46, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.693
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2813, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.693
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.693
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.693
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.693
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.693
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.693
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency75, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.692
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency29, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.692
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency298, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.692
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency186, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.692
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency37, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:14:09.692
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency815, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.690
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency1999, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.690
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency667, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.689
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.689
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.689
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.688
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.688
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency46, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.688
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency75, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.688
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.688
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.688
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2813, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.688
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.688
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.687
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency298, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.687
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency186, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.687
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency29, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.687
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency37, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:04:09.687
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency815, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.685
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.685
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency667, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.685
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency1999, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.684
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.684
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.684
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.684
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency75, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.684
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.683
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency29, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.683
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2813, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.683
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.683
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency186, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.683
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.683
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency37, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.683
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency46, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.683
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency815, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.683
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:02:09.682
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency298, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.680
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency1999, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.679
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.679
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency667, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.679
+
+
+Frequency has deviated for configKeygetRateLimitEnabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.679
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.678
+
+
+Frequency has deviated for configKeygetIndexMembersKey, existingFrequency2813, expectedFrequency3800, baseFrequency3800
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.678
+
+
+Frequency has deviated for configKeygetListAttributesKey, existingFrequency46, expectedFrequency60, baseFrequency60
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.678
+
+
+Frequency has deviated for configKeyisApiEnabledWithRateLimitsKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.678
+
+
+Frequency has deviated for configKeygetAttrTableKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.678
+
+
+Frequency has deviated for configKeysearchSpnsKey, existingFrequency1482, expectedFrequency2000, baseFrequency2000
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.678
+
+
+Frequency has deviated for configKeysearchSecuritiesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.678
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.678
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesDbHeavyKey, existingFrequency75, expectedFrequency100, baseFrequency100
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.677
+
+
+Frequency has deviated for configKeysearchContextLinkedIdentifiersKey, existingFrequency298, expectedFrequency400, baseFrequency400
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.677
+
+
+Frequency has deviated for configKeygetTradeRestrictionsKey, existingFrequency37, expectedFrequency10, baseFrequency10
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.677
+
+
+Frequency has deviated for configKeygetRateLimitConfigsKey, existingFrequency29, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.677
+
+
+Frequency has deviated for configKeygetMultipleUnderlyingsListKey, existingFrequency815, expectedFrequency1100, baseFrequency1100
+
+
+deshawuat
+
+
+	2025-07-08 10:01:09.677
+
+
+Frequency has deviated for configKeygetSecurityTemporalChangesKey, existingFrequency186, expectedFrequency250, baseFrequency250
+
+
+deshawuat
+
+
+	2025-07-08 09:51:09.675
+
+
+Frequency has deviated for configKeysearchMarketLinkedIdentifiersKey, existingFrequency1999, expectedFrequency2700, baseFrequency2700
+
+
+deshawuat
+
+
+	2025-07-08 09:51:09.674
+
+
+Frequency has deviated for configKeygetRateLimitDisabledApisKey, existingFrequency30, expectedFrequency20, baseFrequency20
+
+
+deshawuat
+
+
+	2025-07-08 09:51:09.674
+
+
+Frequency has deviated for configKeygetAttributesForSpnFieldsLocalDateKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat
+
+
+	2025-07-08 09:51:09.674
+
+
+Frequency has deviated for configKeygetAttrTableWithOptionsWithLocalDateKey, existingFrequency667, expectedFrequency900, baseFrequency900
+
+
+deshawuat
+
+
+	2025-07-08 09:51:09.673
+
+
+Frequency has deviated for configKeysearchAttributesKey, existingFrequency594, expectedFrequency800, baseFrequency800
+
+
+deshawuat

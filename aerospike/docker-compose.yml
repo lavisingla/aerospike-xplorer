@@ -1,0 +1,33 @@
+version: '3'
+services:
+  aerospike1:
+    image: aerospike/aerospike-server:latest
+    container_name: aerospike1
+    hostname: aerospike1
+    ports:
+      - "3001:3000"
+      - "3012:3002"  # Expose heartbeat port
+      - "3011:3001"  # Expose fabric port
+      - "3013:3003"  # Expose info port
+    volumes:
+      - ${PWD}/node1/aerospike.conf:/opt/aerospike/etc/aerospike.conf
+    networks:
+      aeronet:
+        aliases:
+          - aerospike1
+
+  amc:
+    image: aerospike/amc
+    container_name: amc
+    ports:
+      - "8081:8081"
+    networks:
+      - aeronet
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /usr/share/zoneinfo:/usr/share/zoneinfo:ro
+    
+
+networks:
+  aeronet:
+

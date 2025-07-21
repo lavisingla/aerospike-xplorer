@@ -1,0 +1,43 @@
+AEROSPIKE 3-NODE CLUSTER SETUP INSTRUCTIONS
+===========================================
+
+This setup creates a 3-node Aerospike cluster with AMC monitoring using Docker.
+
+CONFIGURATION DETAILS:
+---------------------
+- 3 Aerospike nodes in a mesh cluster
+- Each node has 5GB SSD-based storage
+- Replication factor of 2 (data replicated across nodes)
+- Automatic cluster formation
+- AMC (Aerospike Management Console) for monitoring
+
+SETUP STEPS:
+-----------
+1. Run the setup script to create required directories:
+   ./setup.sh
+
+2. Start the cluster:
+   docker-compose up -d
+
+3. Access AMC (Aerospike Management Console):
+   http://localhost:8081
+
+4. Check cluster status:
+   docker exec aerospike-1 asadm -e 'info'
+
+5. Stop the cluster:
+   docker-compose down
+
+PORT MAPPINGS:
+------------
+- Aerospike Node 1: 3000-3002
+- Aerospike Node 2: 3010-3012
+- Aerospike Node 3: 3020-3022
+- AMC: 8081
+
+NAMESPACES:
+----------
+One namespace is configured on each node:
+- test
+
+The namespace has 5GB storage limit and replication factor of 2.

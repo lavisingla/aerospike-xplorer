@@ -1,0 +1,80 @@
+version: '3'
+
+services:
+  aerospike-1:
+    image: aerospike/aerospike-server:latest
+    container_name: aerospike-1
+    ports:
+      - "3000:3000"
+      - "3001:3001"
+      - "3002:3002"
+    volumes:
+      - ./aerospike-1.conf:/etc/aerospike/aerospike.template.conf:ro
+      - aerospike-data-1:/opt/aerospike/data
+    networks:
+      - aerospike-network
+    restart: always
+
+  aerospike-2:
+    image: aerospike/aerospike-server:latest
+    container_name: aerospike-2
+    ports:
+      - "3010:3000"
+      - "3011:3001"
+      - "3012:3002"
+    volumes:
+      - ./aerospike-1.conf:/etc/aerospike/aerospike.template.conf:ro
+      - aerospike-data-2:/opt/aerospike/data
+    networks:
+      - aerospike-network
+    restart: always
+
+  aerospike-3:
+    image: aerospike/aerospike-server:latest
+    container_name: aerospike-3
+    ports:
+      - "3020:3000"
+      - "3021:3001"
+      - "3022:3002"
+    volumes:
+      - ./aerospike-1.conf:/etc/aerospike/aerospike.template.conf:ro
+      - aerospike-data-3:/opt/aerospike/data
+    networks:
+      - aerospike-network
+    restart: always
+
+  amc:
+    image: aerospike/amc:latest
+    container_name: aerospike-amc
+    ports:
+      - "8081:8081"
+    networks:
+      - aerospike-network
+    restart: always
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - /usr/share/zoneinfo:/usr/share/zoneinfo:ro
+
+networks:
+  aerospike-network:
+    driver: bridge
+
+volumes:
+  aerospike-data-1:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/data/aerospike-1
+  aerospike-data-2:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/data/aerospike-2
+  aerospike-data-3:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${PWD}/data/aerospike-3
