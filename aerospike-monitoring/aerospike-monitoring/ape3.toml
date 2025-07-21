@@ -1,0 +1,20 @@
+[Agent]
+enable_prometheus = true
+enable_open_telemetry = false
+timeout = 10
+refresh_system_stats = false
+log_file = ""
+log_level = "info"
+
+[prometheus]
+bind = ":9145"
+
+[Aerospike]
+# Set the host to the seed node of your cluster
+db_host = "10.0.0.13"
+db_port = 3000
+timeout = 5
+
+[[SystemStats]]
+# Enable system-level metrics like CPU and memory
+enable = true

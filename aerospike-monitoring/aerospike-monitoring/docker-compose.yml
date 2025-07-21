@@ -1,0 +1,60 @@
+version: '3'
+
+services:
+  aerospike-exporter1:
+    image: aerospike/aerospike-prometheus-exporter:latest
+    container_name: aerospike-exporter1
+    ports:
+      - "9148:9145"
+    environment:
+      - CONFIG_FILE=/etc/aerospike-prometheus-exporter/config.yaml
+    volumes:
+      - ./ape1.toml:/tmp/ape.toml:ri
+    command: >
+      /usr/bin/aerospike-prometheus-exporter -config /tmp/ape.toml
+    restart: always
+  aerospike-exporter2:
+    image: aerospike/aerospike-prometheus-exporter:latest
+    container_name: aerospike-exporter2
+    ports:
+      - "9146:9145"
+    environment:
+      - CONFIG_FILE=/etc/aerospike-prometheus-exporter/config.yaml
+    volumes:
+      - ./ape2.toml:/tmp/ape.toml:ro
+    command: >
+      /usr/bin/aerospike-prometheus-exporter -config /tmp/ape.toml
+    restart: always
+  aerospike-exporter3:
+    image: aerospike/aerospike-prometheus-exporter:latest
+    container_name: aerospike-exporter3
+    ports:
+      - "9147:9145"
+    environment:
+      - CONFIG_FILE=/etc/aerospike-prometheus-exporter/config.yaml
+    volumes:
+      - ./ape3.toml:/tmp/ape.toml:ri
+    command: >
+      /usr/bin/aerospike-prometheus-exporter -config /tmp/ape.toml
+    restart: always
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    restart: always
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3001:3000"
+    volumes:
+      - grafana-storage:/var/lib/grafana
+    restart: always
+
+volumes:
+  grafana-storage:
+
